@@ -3,6 +3,10 @@ languageCode: "en-us"
 title: "bitground"
 theme: "papermod"
 
+disableKinds:
+- taxonomy
+- term
+
 params:
   defaultTheme: auto # to switch between dark or light according to browser theme
 
