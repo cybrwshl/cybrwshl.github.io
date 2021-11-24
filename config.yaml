@@ -7,8 +7,6 @@ disableKinds:
 - taxonomy
 - term
 - rss
-- 404
-- sitemap
 
 params:
   defaultTheme: auto # to switch between dark or light according to browser theme
