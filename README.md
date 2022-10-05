@@ -1,2 +1,2 @@
-# [bitground](https://www.bitground.de)
+# [bitground](https://bitground.de)
 My minimalistic personal page.
