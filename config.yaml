@@ -26,3 +26,5 @@ params:
   socialIcons: # optional
   - name: "github"
     url: "https://github.com/cybrwshl"
+  - name: "mastodon"
+    url: "https://mastodon.social/@cybrwshl"
