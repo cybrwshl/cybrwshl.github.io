@@ -1,0 +1,16 @@
+{
+  "image": "mcr.microsoft.com/devcontainers/base:ubuntu",
+  "features": {
+    "ghcr.io/devcontainers/features/hugo:1": {},
+    "ghcr.io/devcontainers-community/npm-features/prettier:1": {}
+  },
+  "customizations": {
+    "vscode": {
+      "extensions": [
+        "GitHub.vscode-github-actions",
+        "rusnasonov.vscode-hugo",
+        "budparr.language-hugo-vscode"
+      ]
+    }
+  }
+}
